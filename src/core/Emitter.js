@@ -22,7 +22,3 @@ export class Emitter {
     };
   }
 }
-
-// const emitter = new Emitter();
-// emitter.subscribe('vladik', (data) => console.log('Sub:', data));
-// emitter.emit('vladik', 42);
